@@ -1,21 +1,7 @@
 /**
   @page Audio_playback_and_record  Audio Playback and Record application
 
-  @verbatim
-  ******************** (C) COPYRIGHT 2017 STMicroelectronics *******************
-  * @file    Audio/Audio_playback_and_record/readme.txt 
-  * @author  MCD Application Team
-  * @brief   Description of the Audio Playback and Record application.
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2017 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
+
   ******************************************************************************
    @endverbatim
 
